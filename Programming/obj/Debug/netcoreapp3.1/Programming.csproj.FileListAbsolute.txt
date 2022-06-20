@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\bin\Debug\netcoreapp3.1\Programming.exe
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\bin\Debug\netcoreapp3.1\Programming.deps.json
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\bin\Debug\netcoreapp3.1\Programming.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\bin\Debug\netcoreapp3.1\Programming.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\bin\Debug\netcoreapp3.1\Programming.dll
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\bin\Debug\netcoreapp3.1\Programming.pdb
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.dll
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.pdb
+C:\Users\Emil Abdullayev\Desktop\Programming\Programming\obj\Debug\netcoreapp3.1\Programming.genruntimeconfig.cache
